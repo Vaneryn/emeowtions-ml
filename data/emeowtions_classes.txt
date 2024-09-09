@@ -1,10 +1,7 @@
-1. neutral
-ears_forward
-ears_up
-eyes_small_pupils
-eyes_large_pupils_neutral
-posture_normal
-whiskers_sideways
+1. angry
+ears_flat_angry
+mouth_fangs
+posture_arched_back_angry
 
 2. happy
 eyes_narrowed
@@ -13,7 +10,16 @@ posture_exposed_belly
 tail_question_mark
 tail_straight_up
 
-3. scared
+3. neutral
+ears_forward
+ears_up
+eyes_small_pupils
+eyes_large_pupils_neutral
+posture_normal
+posture_stretch
+whiskers_sideways
+
+4. scared
 ears_flat_scared
 eyes_large_pupils_scared
 haircoat_piloerection
@@ -24,8 +30,3 @@ tail_piloerection
 tail_tucked
 tail_wrapped
 whiskers_forward
-
-4. angry
-ears_flat_angry
-mouth_fangs
-posture_arched_back_angry
