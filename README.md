@@ -53,3 +53,16 @@ root
 | models/reports | Classification reports from Scikit-Learn |
 | models/yolov8n_saved_model | Finalized YOLOv8n model folder with TFLite model and labels file |
 | notebooks | Jupyter Notebook files used for data collection, EDA, data preprocessing, model training, evaluation, etc. |
+
+## Technology Stack
+<div style="display: flex; gap: 1rem;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="150" height="150" alt="Python" />
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*YQWYPi4uoT8RcG6BPbUoVw.png" width="300" height="150" alt="Ultralytics YOLOv8" />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOX_n_7qurFQxghhS8HOBMnEPQjlY1l9Jmw&s" width="300" height="150" alt="PyTorch" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="150" height="150" alt="Keras" />
+
+</div>
